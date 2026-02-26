@@ -1,3 +1,16 @@
+Introducción
+
+El presente proyecto tiene como finalidad desarrollar el software denominado Juego del Ahorcado, utilizando el lenguaje de programación Python.
+
+Este trabajo permite aplicar los conocimientos adquiridos en la asignatura de Lógica de Programación, tales como estructuras condicionales, ciclos repetitivos, variables, validaciones y control de flujo.
+
+
+Objetivo General
+
+Desarrollar un programa interactivo que simule el juego del ahorcado, aplicando estructuras básicas de programación.
+
+
+
 1.	 Entorno de Programación
 El entorno de programación comprende el conjunto de herramientas necesarias para la construcción, ejecución y prueba de programas informáticos. En el presente proyecto se empleó el lenguaje Python, seleccionado por su sintaxis clara, legibilidad y amplia aplicabilidad en el ámbito académico.
 2.	Diagramas de Flujo
